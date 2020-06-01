@@ -27,6 +27,14 @@ Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
 Top level modules:
 	f1
 
+} {} {}} C:/Users/witdx/Desktop/Verilog1/cmosinverter.v {1 {vlog -work work C:/Users/witdx/Desktop/Verilog1/cmosinverter.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module cmos1
+-- Compiling module cmos1_test
+
+Top level modules:
+	cmos1_test
+
 } {} {}} C:/Users/witdx/Desktop/Verilog1/decoder.v {1 {vlog -work work C:/Users/witdx/Desktop/Verilog1/decoder.v
 Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
 -- Compiling module decoder
