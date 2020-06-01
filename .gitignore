@@ -1,5 +1,7 @@
 *.bak
 *.wlf
 *.mti
-*.mtf
+*.cr.mti
+*.mpf
+
 /work
