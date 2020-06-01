@@ -1,4 +1,19 @@
-C:/Users/witdx/Desktop/Verilog1/3bitbinaryrippleupcounter.v {1 {vlog -work work C:/Users/witdx/Desktop/Verilog1/3bitbinaryrippleupcounter.v
+C:/Users/witdx/Desktop/Verilog1/dff.v {1 {vlog -work work C:/Users/witdx/Desktop/Verilog1/dff.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling UDP udp_dff_edge1
+-- Compiling module udp_dff_edge1_tb
+
+Top level modules:
+	udp_dff_edge1_tb
+
+} {} {}} C:/Users/witdx/Desktop/Verilog1/fulladder1.v {1 {vlog -work work C:/Users/witdx/Desktop/Verilog1/fulladder1.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module fulladder_task
+
+Top level modules:
+	fulladder_task
+
+} {} {}} C:/Users/witdx/Desktop/Verilog1/3bitbinaryrippleupcounter.v {1 {vlog -work work C:/Users/witdx/Desktop/Verilog1/3bitbinaryrippleupcounter.v
 Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
 -- Compiling module counter
 
